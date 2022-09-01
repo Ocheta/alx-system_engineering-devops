@@ -8,4 +8,8 @@
 7. Betty in my first directory
 8. Bye bye betty
 9. Bye bye My first directory
-10. Back to the future	
+10. Back to the future
+11. List
+12. File type
+13. We're symbols, and we inhabit symbols
+14. Copy HTML file	
