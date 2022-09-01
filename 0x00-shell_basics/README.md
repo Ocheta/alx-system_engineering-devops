@@ -3,4 +3,9 @@
 2. There is no plaace like home?
 3. Long format
 4. Hidden files
-5. I love numbers	
+5. I love numbers
+6. Welcome
+7. Betty in my first directory
+8. Bye bye betty
+9. Bye bye My first directory
+10. Back to the future	
