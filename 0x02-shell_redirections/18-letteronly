@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "%s" /etc/ssh/sshd_config
+grep -i "%c" /etc/ssh/sshd_config
